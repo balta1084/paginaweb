@@ -1,2 +1,2 @@
 Pagina sobre mi ciudad
-Este proyecto es una pagina web básica desarrollada como parte 
+Este proyecto es una pagina web sobre mi ciudad en la que muestro 
